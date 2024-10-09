@@ -11,7 +11,7 @@ export default function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              <p>hello world</p>
+              <p>Hello World</p>
             </h1>
           </div>
 
